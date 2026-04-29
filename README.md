@@ -1,14 +1,8 @@
-<!-- Profile README — Shivang  (cxcbbjx) -->
+<!-- Profile README — Shivang Sagar (cxcbbjx) -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=120&section=header" width="100%"/>
-
-# Hey, I'm Shivang  👋
-
-**Creative Developer · AI + Art Enthusiast · Math-Driven Coder**
-
-*"Math gives logic, art gives meaning — I try to blend both."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,25:FF8C42,50:C2185B,75:7B1FA2,100:4A148C&height=200&section=header&text=Shivang%20Sagar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Creative%20Developer%20%E2%80%A2%20AI%20%2B%20Art%20%E2%80%A2%20Math-Driven%20Coder&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivang16062006/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://toodumb.netlify.app/)
@@ -75,14 +69,14 @@ From turning images into **hand-drawn sketches** to designing **sci-fi workspace
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cxcbbjx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxcbbjx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=cxcbbjx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF8C42&icon_color=C2185B&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxcbbjx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF8C42&text_color=c9d1d9" height="160"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=cxcbbjx&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=cxcbbjx&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FF8C42&fire=C2185B&currStreakLabel=FF8C42" height="160"/>
 
 </div>
 
@@ -90,7 +84,7 @@ From turning images into **hand-drawn sketches** to designing **sci-fi workspace
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A148C,25:7B1FA2,50:C2185B,75:FF8C42,100:FF6B35&height=120&section=footer" width="100%"/>
 
 *🐙 coding is for fun*
 
