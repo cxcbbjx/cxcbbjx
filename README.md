@@ -1,8 +1,8 @@
-<!-- Profile README — Shivang Sagar (cxcbbjx) -->
+<!-- Profile README — Shivang (cxcbbjx) -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,25:FF8C42,50:C2185B,75:7B1FA2,100:4A148C&height=200&section=header&text=Shivang%20Sagar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Creative%20Developer%20%E2%80%A2%20AI%20%2B%20Art%20%E2%80%A2%20Math-Driven%20Coder&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,25:FF8C42,50:C2185B,75:7B1FA2,100:4A148C&height=200&section=header&text=Shivang&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Creative%20Developer%20%E2%80%A2%20AI%20%2B%20Art%20%E2%80%A2%20Math-Driven%20Coder&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivang16062006/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://toodumb.netlify.app/)
