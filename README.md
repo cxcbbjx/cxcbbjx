@@ -1,10 +1,10 @@
-<!-- Profile README — Shivang Sagar (cxcbbjx) -->
+<!-- Profile README — Shivang  (cxcbbjx) -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=120&section=header" width="100%"/>
 
-# Hey, I'm Shivang Sagar 👋
+# Hey, I'm Shivang  👋
 
 **Creative Developer · AI + Art Enthusiast · Math-Driven Coder**
 
