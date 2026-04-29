@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,25:FF8C42,50:C2185B,75:7B1FA2,100:4A148C&height=200&section=header&text=Shivang&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Creative%20Developer%20%E2%80%A2%20AI%20%2B%20Art%20%E2%80%A2%20Math-Driven%20Coder&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,20:1a2744,40:8B3A1A,60:C4622D,80:E8854A,100:F5A66B&height=220&section=header&text=Shivang&fontSize=72&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivang16062006/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://toodumb.netlify.app/)
@@ -84,7 +84,7 @@ From turning images into **hand-drawn sketches** to designing **sci-fi workspace
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A148C,25:7B1FA2,50:C2185B,75:FF8C42,100:FF6B35&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5A66B,20:E8854A,40:C4622D,60:8B3A1A,80:1a2744,100:0a0e1a&height=120&section=footer" width="100%"/>
 
 *🐙 coding is for fun*
 
